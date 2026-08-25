@@ -8,7 +8,7 @@
 - 删除错误数据
 - 保存处理日志
 
-## 运行方法
+## 安装依赖
 
 ```powershell
-python clean_sales_data.py
+pip install -r requirements.txt
