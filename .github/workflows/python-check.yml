@@ -32,3 +32,6 @@ jobs:
 
       - name: 运行基础汇总练习
         run: python python_basics.py
+
+      - name: 运行销售数据清洗程序
+        run: python clean_sales_data.py
