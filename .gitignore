@@ -1,0 +1,4 @@
+__pycache__/
+logs/*.log
+output/*.csv
+README_local_backup.md
