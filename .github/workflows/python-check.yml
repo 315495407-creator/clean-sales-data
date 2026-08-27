@@ -35,3 +35,6 @@ jobs:
 
       - name: 运行销售数据清洗程序
         run: python clean_sales_data.py
+
+      - name: 检查清洗结果
+        run: python check_cleaned_output.py
