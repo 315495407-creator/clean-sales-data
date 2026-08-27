@@ -1,5 +1,6 @@
 # 销售数据清洗工具
 
+这是我的第二个 Python 数据处理练习项目。
 [![Python 自动检查](https://github.com/315495407-creator/clean-sales-data/actions/workflows/python-check.yml/badge.svg)](https://github.com/315495407-creator/clean-sales-data/actions/workflows/python-check.yml)
 
 ## 功能
