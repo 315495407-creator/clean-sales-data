@@ -15,3 +15,8 @@
 
 ```powershell
 pip install -r requirements.txt
+
+
+## 学习状态
+
+正在练习 Git 分支和 GitHub Actions。
